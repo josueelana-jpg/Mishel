@@ -66,7 +66,7 @@ function goBack() {
 
 // Variables para el efecto de typing
 const message = "Para ti,seriecita🌻No sé si te lo he dicho,pero te aprecio muchísimo.Eres una mujer increíble: fuerte, capaz de todo lo que te propongas, y con un corazón tan dulce, aunque lo escondas detrás de esa carita seria que tanto me gusta. Quiero que sepas que estoy para ti en lo que necesites. Si quieres platicar, te escucho. Si quieres silencio, te acompaño callado. Si quieres reír, invento los chistes más malos del mundo hasta sacarte una sonrisa.En los días bonitos.";
-const loveMessage = "y en los grises,aquí estoy para ti.Te quiero mucho, de verdad,";
+const loveMessage = "y en los grises,aquí estoy para ti.Te quiero mucho, de verdad Mishell Arriaza,";
 let i = 0;
 let loveI = 0;
 const typingSpeed = 60;
